@@ -9,6 +9,11 @@ public class AvverkaSkog {
 	public static final int K = 2;
 	public static final int M = 1;
 
+         // just added a method
+        public static void printHello(){
+        
+            System.out.println("Just added a hello to the project");
+        }
 
 	public static void main(String [] args) {
 	
@@ -64,8 +69,12 @@ public class AvverkaSkog {
 			System.out.print(F[i][j] + " ");
 		}
 		System.out.println();
-}
- }
+         }
+        
+        printHello();
+        
+        
+     }
 }
 
 
