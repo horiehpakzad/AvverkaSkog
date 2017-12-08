@@ -8,7 +8,7 @@ public class AvverkaSkog {
 	public static final int N = 4;
 	public static final int K = 2;
 	public static final int M = 1;
-
+	// another comment
          // just added a method
         public static void printHello(){
         
